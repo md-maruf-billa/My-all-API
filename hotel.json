@@ -1,5 +1,6 @@
 [
   {
+    "img":"https://i.postimg.cc/CLtrFvWF/umbrellas-deck-chairs-around-outdoor-swimming-pool.jpg",
     "title": "Modern Downtown Retreat with Stunning Views",
     "description": "Experience the vibrant city life from our modern and stylish apartment. Enjoy breathtaking views and unwind in a peaceful environment. 2 bedrooms, 2 beds, and 2 baths ensure comfort for up to 4 guests.",
     "amenities": ["WiFi", "Air conditioning", "Kitchen"],
@@ -10,6 +11,7 @@
     "total_price": 200
   },
   {
+    "img":"https://i.postimg.cc/43R8cYfq/sunset-pool.jpg",
     "title": "Charming Urban Oasis in Historic District",
     "description": "Step into our charming oasis nestled in the heart of the historic district. This light-filled apartment offers a tranquil escape for up to 4 guests. 2 bedrooms, 2 beds, and 2 baths ensure comfort throughout your stay.",
     "amenities": ["WiFi", "Air conditioning", "Kitchen"],
@@ -20,6 +22,7 @@
     "total_price": 190
   },
   {
+    "img":"https://i.postimg.cc/PJ5Vq0Xq/sundorbon.png",
     "title": "Luxurious Loft with Panoramic City Views",
     "description": "Indulge in luxury at our stunning loft boasting panoramic city views. With 2 bedrooms, 2 beds, and 2 baths, our space is perfect for a tranquil and stylish stay for up to 4 guests.",
     "amenities": ["WiFi", "Air conditioning", "Kitchen"],
@@ -30,6 +33,7 @@
     "total_price": 225
   },
   {
+    "img":"https://i.postimg.cc/J7pdF7xH/Sreemongol.png",
     "title": "Sunny Retreat Near Beach with Private Patio",
     "description": "Escape to our sunny retreat located just steps away from the beach. Relax on the private patio or explore nearby attractions. 2 bedrooms, 2 beds, and 2 baths offer a comfortable stay for up to 4 guests.",
     "amenities": ["WiFi", "Air conditioning", "Kitchen"],
@@ -40,6 +44,7 @@
     "total_price": 210
   },
   {
+    "img":"https://i.postimg.cc/mDw6BTGq/Rectangle-27.png",
     "title": "Cozy Cottage in Tranquil Countryside Setting",
     "description": "Experience the serenity of the countryside in our cozy cottage. Perfect for nature lovers, our 2-bedroom retreat offers a peaceful stay with modern amenities.",
     "amenities": ["WiFi", "Air conditioning", "Kitchen"],
@@ -50,6 +55,7 @@
     "total_price": 180
   },
   {
+    "img":"https://i.postimg.cc/Gtg7Tztx/Rectangle-26.png",
     "title": "Elegant Townhouse with Rooftop Terrace",
     "description": "Discover elegance and sophistication in our stylish townhouse. Relax on the rooftop terrace or explore the vibrant neighborhood. 2 bedrooms, 2 beds, and 2 baths ensure a comfortable stay for up to 4 guests.",
     "amenities": ["WiFi", "Air conditioning", "Kitchen"],
@@ -60,6 +66,7 @@
     "total_price": 240
   },
   {
+    "img":"https://i.postimg.cc/bNdFfXVC/Rectangle-1.png",
     "title": "Quaint Apartment in Artsy Neighborhood",
     "description": "Immerse yourself in the artsy vibe of our neighborhood from our quaint apartment. Perfect for a cultural getaway, our 2-bedroom space offers comfort and style for up to 4 guests.",
     "amenities": ["WiFi", "Air conditioning", "Kitchen"],
@@ -70,6 +77,7 @@
     "total_price": 195
   },
   {
+    "img":"https://i.postimg.cc/HxHPqVFX/light-garden-luxury-pool-nature.jpg",
     "title": "Tranquil Haven with Garden Views",
     "description": "Escape to our tranquil haven surrounded by lush garden views. Relax in peace and comfort in our 2-bedroom retreat, perfect for up to 4 guests.",
     "amenities": ["WiFi", "Air conditioning", "Kitchen"],
@@ -80,6 +88,7 @@
     "total_price": 220
   },
   {
+    "img":"https://i.postimg.cc/pdkDdrpD/Sajek.png",
     "title": "Contemporary Loft in Trendy Neighborhood",
     "description": "Experience contemporary living in our loft located in a trendy neighborhood. With 2 bedrooms, 2 beds, and 2 baths, our space offers comfort and style for up to 4 guests.",
     "amenities": ["WiFi", "Air conditioning", "Kitchen"],
@@ -90,6 +99,7 @@
     "total_price": 205
   },
   {
+    "img":"https://i.postimg.cc/0N9YxD2k/Rectangle-28.png",
     "title": "Sleek Apartment with City Skyline Views",
     "description": "Enjoy sleek and modern living with stunning city skyline views from our apartment. Perfect for a stylish urban getaway, our 2-bedroom space accommodates up to 4 guests.",
     "amenities": ["WiFi", "Air conditioning", "Kitchen"],

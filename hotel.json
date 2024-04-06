@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Modern Downtown Retreat with Stunning Views",
+    "description": "Experience the vibrant city life from our modern and stylish apartment. Enjoy breathtaking views and unwind in a peaceful environment. 2 bedrooms, 2 beds, and 2 baths ensure comfort for up to 4 guests.",
+    "amenities": ["WiFi", "Air conditioning", "Kitchen"],
+    "cancellation_policy": "Flexible",
+    "rating": 4.8,
+    "num_reviews": 25,
+    "price_per_night": 40,
+    "total_price": 200
+  },
+  {
+    "title": "Charming Urban Oasis in Historic District",
+    "description": "Step into our charming oasis nestled in the heart of the historic district. This light-filled apartment offers a tranquil escape for up to 4 guests. 2 bedrooms, 2 beds, and 2 baths ensure comfort throughout your stay.",
+    "amenities": ["WiFi", "Air conditioning", "Kitchen"],
+    "cancellation_policy": "Moderate",
+    "rating": 4.7,
+    "num_reviews": 18,
+    "price_per_night": 38,
+    "total_price": 190
+  },
+  {
+    "title": "Luxurious Loft with Panoramic City Views",
+    "description": "Indulge in luxury at our stunning loft boasting panoramic city views. With 2 bedrooms, 2 beds, and 2 baths, our space is perfect for a tranquil and stylish stay for up to 4 guests.",
+    "amenities": ["WiFi", "Air conditioning", "Kitchen"],
+    "cancellation_policy": "Strict",
+    "rating": 4.9,
+    "num_reviews": 30,
+    "price_per_night": 45,
+    "total_price": 225
+  },
+  {
+    "title": "Sunny Retreat Near Beach with Private Patio",
+    "description": "Escape to our sunny retreat located just steps away from the beach. Relax on the private patio or explore nearby attractions. 2 bedrooms, 2 beds, and 2 baths offer a comfortable stay for up to 4 guests.",
+    "amenities": ["WiFi", "Air conditioning", "Kitchen"],
+    "cancellation_policy": "Flexible",
+    "rating": 4.6,
+    "num_reviews": 15,
+    "price_per_night": 42,
+    "total_price": 210
+  },
+  {
+    "title": "Cozy Cottage in Tranquil Countryside Setting",
+    "description": "Experience the serenity of the countryside in our cozy cottage. Perfect for nature lovers, our 2-bedroom retreat offers a peaceful stay with modern amenities.",
+    "amenities": ["WiFi", "Air conditioning", "Kitchen"],
+    "cancellation_policy": "Moderate",
+    "rating": 4.5,
+    "num_reviews": 12,
+    "price_per_night": 36,
+    "total_price": 180
+  },
+  {
+    "title": "Elegant Townhouse with Rooftop Terrace",
+    "description": "Discover elegance and sophistication in our stylish townhouse. Relax on the rooftop terrace or explore the vibrant neighborhood. 2 bedrooms, 2 beds, and 2 baths ensure a comfortable stay for up to 4 guests.",
+    "amenities": ["WiFi", "Air conditioning", "Kitchen"],
+    "cancellation_policy": "Flexible",
+    "rating": 4.9,
+    "num_reviews": 28,
+    "price_per_night": 48,
+    "total_price": 240
+  },
+  {
+    "title": "Quaint Apartment in Artsy Neighborhood",
+    "description": "Immerse yourself in the artsy vibe of our neighborhood from our quaint apartment. Perfect for a cultural getaway, our 2-bedroom space offers comfort and style for up to 4 guests.",
+    "amenities": ["WiFi", "Air conditioning", "Kitchen"],
+    "cancellation_policy": "Moderate",
+    "rating": 4.7,
+    "num_reviews": 20,
+    "price_per_night": 39,
+    "total_price": 195
+  },
+  {
+    "title": "Tranquil Haven with Garden Views",
+    "description": "Escape to our tranquil haven surrounded by lush garden views. Relax in peace and comfort in our 2-bedroom retreat, perfect for up to 4 guests.",
+    "amenities": ["WiFi", "Air conditioning", "Kitchen"],
+    "cancellation_policy": "Flexible",
+    "rating": 4.8,
+    "num_reviews": 22,
+    "price_per_night": 44,
+    "total_price": 220
+  },
+  {
+    "title": "Contemporary Loft in Trendy Neighborhood",
+    "description": "Experience contemporary living in our loft located in a trendy neighborhood. With 2 bedrooms, 2 beds, and 2 baths, our space offers comfort and style for up to 4 guests.",
+    "amenities": ["WiFi", "Air conditioning", "Kitchen"],
+    "cancellation_policy": "Moderate",
+    "rating": 4.6,
+    "num_reviews": 17,
+    "price_per_night": 41,
+    "total_price": 205
+  },
+  {
+    "title": "Sleek Apartment with City Skyline Views",
+    "description": "Enjoy sleek and modern living with stunning city skyline views from our apartment. Perfect for a stylish urban getaway, our 2-bedroom space accommodates up to 4 guests.",
+    "amenities": ["WiFi", "Air conditioning", "Kitchen"],
+    "cancellation_policy": "Flexible",
+    "rating": 4.9,
+    "num_reviews": 26,
+    "price_per_night": 47,
+    "total_price": 235
+  }
+]

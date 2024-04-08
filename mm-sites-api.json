@@ -9,11 +9,11 @@
     "area": "5000 acres",
     "location": "Fayetteville, NC",
     "facilities": ["Training grounds", "Housing", "Mess halls"],
-    "image": "fort_bragg_image.jpg",
+    "image": "https://i.postimg.cc/T1HzXBdF/fort-bragg-image.jpg"
   },
   {
     "estate_title": "Supreme Court of the United States",
-    "id":2,
+    "id": 2,
     "segment_name": "Courthouse",
     "description": "The Supreme Court of the United States, situated in the nation's capital of Washington, D.C., is the highest judicial body in the country, entrusted with interpreting the Constitution and ensuring the rule of law. Housed within a majestic building covering over 100,000 square feet, the Court serves as the final arbiter of legal disputes, shaping the nation's legal landscape and safeguarding its democratic principles. Its distinguished chambers witness the deliberation of complex legal arguments, while its library holds a vast collection of legal texts and precedent-setting cases. The Court's decisions resonate far beyond its physical confines, influencing the lives of millions of Americans and setting precedents for generations to come.",
     "price": "Not for sale",
@@ -21,8 +21,7 @@
     "area": "100,000 sq ft",
     "location": "Washington, D.C.",
     "facilities": ["Courtrooms", "Library", "Conference rooms"],
-    "image": "supreme_court_image.jpg"
-
+    "image": "https://i.postimg.cc/XNHSFBfL/Supreme-Court-of-the-United-States.jpg"
   },
   {
     "estate_title": "New York Public Library",
@@ -34,7 +33,7 @@
     "area": "200,000 sq ft",
     "location": "New York, NY",
     "facilities": ["Reading rooms", "Computer stations", "Event spaces"],
-    "image": "nypl_image.jpg",
+    "image": "https://i.postimg.cc/wjNSSWS4/New-York-Public-Library.webp"
   },
   {
     "estate_title": "Central Park",
@@ -46,7 +45,7 @@
     "area": "843 acres",
     "location": "New York, NY",
     "facilities": ["Walking paths", "Playgrounds", "Picnic areas"],
-    "image": "central_park_image.jpg",
+    "image": "https://i.postimg.cc/rmV3Rqz7/Central-Park.avif"
   },
   {
     "estate_title": "Los Angeles Community Center",
@@ -58,8 +57,7 @@
     "area": "10,000 sq ft",
     "location": "Los Angeles, CA",
     "facilities": ["Meeting rooms", "Gymnasium", "Kitchen"],
-    "image": "community_center_image.jpg",
-
+    "image": "https://i.postimg.cc/xThwprFb/Los-Angeles-Community-Center.jpg"
   },
   {
     "estate_title": "Camp Pendleton Marine Corps Base",
@@ -71,7 +69,7 @@
     "area": "200,000 acres",
     "location": "Oceanside, CA",
     "facilities": ["Training areas", "Housing", "Recreation centers"],
-    "image": "camp_pendleton_image.jpg",
+    "image": "https://i.postimg.cc/k5dk9QCJ/Camp-Pendleton-Marine-Corps-Base.avif"
   },
   {
     "estate_title": "San Francisco Superior Court",
@@ -83,7 +81,7 @@
     "area": "50,000 sq ft",
     "location": "San Francisco, CA",
     "facilities": ["Courtrooms", "Jury rooms", "Law library"],
-    "image": "sf_superior_court_image.jpg",
+    "image": "https://i.postimg.cc/Y0S5ZtHQ/San-Francisco-Superior-Court.jpg"
   },
   {
     "estate_title": "Chicago Public Library",
@@ -95,7 +93,7 @@
     "area": "150,000 sq ft",
     "location": "Chicago, IL",
     "facilities": ["Reading rooms", "Computer labs", "Meeting spaces"],
-    "image": "chicago_library_image.jpg",
+    "image": "https://i.postimg.cc/vmLCm48W/Chicago-Public-Library.jpg"
   },
   {
     "estate_title": "Golden Gate Park",
@@ -107,7 +105,7 @@
     "area": "1,017 acres",
     "location": "San Francisco, CA",
     "facilities": ["Botanical gardens", "Museums", "Walking trails"],
-    "image": "golden_gate_park_image.jpg",
+    "image": "https://i.postimg.cc/mDTf3QpX/Golden-Gate-Park.webp"
   },
   {
     "estate_title": "Houston Community Center",
@@ -119,6 +117,6 @@
     "area": "15,000 sq ft",
     "location": "Houston, TX",
     "facilities": ["Multipurpose rooms", "Fitness center", "Outdoor spaces"],
-    "image": "houston_community_center_image.jpg"
+    "image": "https://i.postimg.cc/rmg6fKv8/Houston-Community-Center.jpg"
   }
 ]

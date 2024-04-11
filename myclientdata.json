@@ -6,7 +6,7 @@
     "review": "Great service! The staff was friendly and helpful.",
     "ratings": 4.5,
     "image": "https://i.postimg.cc/8PRjXDYC/San-Francisco-Superior-Court.jpg",
-    "color":"#FFF2E1"
+    "color":"FFF2E1"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "review": "Amazing experience! Would definitely recommend to others.",
     "ratings": 5.0,
     "image": "https://i.postimg.cc/QNWB5ck1/Screenshot-2024-04-11-221001.jpg",
-    "color":"#7BC9FF"
+    "color":"7BC9FF"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "review": "Exceptional service. The ambiance was lovely.",
     "ratings": 4.8,
     "image": "https://i.postimg.cc/Z5j0ZH4t/Screenshot-2024-04-11-221241.jpg",
-    "color":"#E59BE9"
+    "color":"E59BE9"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "review": "Good experience overall. Will visit again.",
     "ratings": 4.0,
     "image": "https://i.postimg.cc/W43z4Z1D/Screenshot-2024-04-11-221225.jpg",
-    "color":"#FFCDEA"
+    "color":"FFCDEA"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "review": "Lovely atmosphere and friendly staff.",
     "ratings": 4.7,
     "image": "https://i.postimg.cc/13y4L2xr/Screenshot-2024-04-11-221210.jpg",
-    "color":"#D875C7"
+    "color":"D875C7"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "review": "Excellent service! Enjoyed every moment.",
     "ratings": 4.9,
     "image": "https://i.postimg.cc/nzXX3m88/Screenshot-2024-04-11-221050.jpg",
-    "color":"#DFF5FF"
+    "color":"DFF5FF"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "review": "Great value for money. Will definitely come back.",
     "ratings": 4.6,
     "image": "https://i.postimg.cc/3J5kZWn6/Screenshot-2024-04-11-221134.jpg",
-    "color":"#FFEDD8"
+    "color":"FFEDD8"
   },
   {
     "id": 8,
@@ -69,6 +69,6 @@
     "review": "Amazing food and service!",
     "ratings": 5.0,
     "image": "https://i.postimg.cc/8cWjSVPt/Screenshot-2024-04-11-221123.jpg",
-    "color":"#EEEEEE"
+    "color":"EEEEEE"
   }
 ]

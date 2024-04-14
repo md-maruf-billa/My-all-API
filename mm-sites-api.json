@@ -118,5 +118,29 @@
     "location": "Houston, TX",
     "facilities": ["Multipurpose rooms", "Fitness center", "Outdoor spaces"],
     "image": "https://i.postimg.cc/rmg6fKv8/Houston-Community-Center.jpg"
+  },
+  {
+    "estate_title": "White House",
+    "id": 11,
+    "segment_name": "Residence",
+    "description": "The White House, located in Washington, D.C., serves as the official residence and workplace of the President of the United States. With its iconic neoclassical architecture and historical significance, the White House stands as a symbol of American democracy and power. Spanning over 55,000 square feet, the residence features grand rooms for state ceremonies, private living quarters for the First Family, and offices for presidential staff. Its meticulously maintained gardens and grounds offer a serene retreat in the heart of the nation's capital. Beyond its role as a residence, the White House hosts diplomatic events, press briefings, and policy discussions, shaping the course of U.S. governance and diplomacy.",
+    "price": "Not for sale",
+    "status": "Government property",
+    "area": "55,000 sq ft",
+    "location": "Washington, D.C.",
+    "facilities": ["State rooms", "Living quarters", "Offices", "Gardens"],
+    "image": "https://i.postimg.cc/XYmbGwVF/white-house.jpg"
+  },
+  {
+    "estate_title": "Statue of Liberty",
+    "id": 12,
+    "segment_name": "Monument",
+    "description": "The Statue of Liberty, standing proudly on Liberty Island in New York Harbor, is a symbol of freedom and democracy known worldwide. Designed by French sculptor Frédéric Auguste Bartholdi, this colossal statue represents the Roman goddess Libertas, holding a torch and a tablet inscribed with the date of American independence. Towering over 305 feet, the Statue of Liberty welcomes immigrants and visitors to the United States, embodying the nation's ideals of liberty, opportunity, and diversity. Its observation deck offers panoramic views of the New York City skyline and serves as a reminder of America's commitment to equality and justice for all.",
+    "price": "Not for sale",
+    "status": "Public monument",
+    "area": "N/A",
+    "location": "New York Harbor, NY",
+    "facilities": ["Observation deck"],
+    "image": "https://i.postimg.cc/9fTn63fY/statue-of-liberty.jpg"
   }
 ]
